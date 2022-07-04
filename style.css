@@ -1,0 +1,96 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+.gold-color{
+    color: gold;
+}
+h1{
+    font: 50px;;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    
+}
+
+.half-width img{
+    width: 50%;
+    padding: 2px;
+    margin-top:20px;
+    margin-left:100px ;
+    box-shadow: 10PX 10PX 40PX gray;
+}
+.half-width {
+    width: 50%;
+    padding: 2px;
+    
+}
+.hire-me{
+    text-decoration: none;
+    background-image:linear-gradient(red,orange ) ;
+    color: floralwhite;
+    font-weight: 700px;
+    border-radius: 2px;
+    box-shadow: 5PX 5PX 5PX gray;
+   
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+}
+.resumi{
+    text-decoration: none;
+    background-image:linear-gradient(red,orange ) ;
+    color: floralwhite;
+    font-weight: 700px;
+    border-radius: 2px;
+    box-shadow: 5PX 5PX 7PX gray;
+}
+.dream-big{
+    display: flex;
+    margin-bottom: 200px;
+    margin-left: 10px;
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.golden-color{
+    color: gold;
+}
+.flaxiable-container{
+display: flex;
+margin-top: 50px;
+margin-left: 100px;
+
+}
+.experience-item{
+    width: 40%;
+    margin: auto;
+    box-shadow: 10px 10px 40px  gray;
+    border-radius: 5px;
+    margin: bottom 10px ;
+
+}
+.experience-area{
+   background-image:url(images/exp-bg.png) ;
+   background-repeat: no-repeat;
+   background-position: left;
+   
+   
+}
+   
+#ful-stack-developer{
+    border-left: 7px solid tomato;
+}
+#baby-developer{
+    border-left:7px solid rgb(0, 68, 255);
+}
+footer p{
+    text-align:right;
+}
